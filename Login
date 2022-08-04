@@ -1,0 +1,18 @@
+
+<!DOCTYPE html>
+<!-- The aria language marking -->
+<html lang="eng-US" dir="ltr" >
+<head>
+<!-- HTML character encoding -->
+<meta charset="UTF-8">
+
+<h1> Welcome to The Log-In Page for the Database </h1>
+<!-- this is highlighting aria labels for a web hosted image -->
+<div role="img" aria-label="Texas Woman's Univeristy Logo">
+  <img src="https://twu.photoshelter.com/galleries/C00004m8bp2xQjvQ/G00001OCI2ctmj.k/I0000AH7f1DPkKvc/17-TWU-0008-Brand-Launch-Logo-Color-gif"
+  src= https://twu.photoshelter.com/galleries/C00004m8bp2xQjvQ/G00001OCI2ctmj.k/I0000AH7f1DPkKvc/17-TWU-0008-Brand-Launch-Logo-Color-gif 2x, 
+        https://twu.photoshelter.com/galleries/C00004m8bp2xQjvQ/G00001OCI2ctmj.k/I0000AH7f1DPkKvc/17-TWU-0008-Brand-Launch-Logo-Color-gif,
+        https://twu.photoshelter.com/galleries/C00004m8bp2xQjvQ/G00001OCI2ctmj.k/I0000AH7f1DPkKvc/17-TWU-0008-Brand-Launch-Logo-Color-gif, 
+        alt="T W U Logo"
+    width="600" height="600">
+  </div>
