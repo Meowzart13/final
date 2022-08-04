@@ -5,6 +5,9 @@
 <head>
 <!-- HTML character encoding -->
 <meta charset="UTF-8">
+</head>
+</html>
+
 
 <h1> Welcome to The Log-In Page for the Database </h1>
 <!-- this is highlighting aria labels for a web hosted image -->
