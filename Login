@@ -9,12 +9,12 @@
 
 
 <h1> Welcome to The Log-In Page for the Database </h1>
-<!-- this is highlighting aria labels for a web hosted image -->
+<!-- this is highlighting aria labels for image -->
 <div role="img" aria-label="Texas Woman's Univeristy Logo">
-  <img src="https://twu.photoshelter.com/galleries/C00004m8bp2xQjvQ/G00001OCI2ctmj.k/I0000AH7f1DPkKvc/17-TWU-0008-Brand-Launch-Logo-Color-gif"
-  src= https://twu.photoshelter.com/galleries/C00004m8bp2xQjvQ/G00001OCI2ctmj.k/I0000AH7f1DPkKvc/17-TWU-0008-Brand-Launch-Logo-Color-gif 2x, 
-        https://twu.photoshelter.com/galleries/C00004m8bp2xQjvQ/G00001OCI2ctmj.k/I0000AH7f1DPkKvc/17-TWU-0008-Brand-Launch-Logo-Color-gif,
-        https://twu.photoshelter.com/galleries/C00004m8bp2xQjvQ/G00001OCI2ctmj.k/I0000AH7f1DPkKvc/17-TWU-0008-Brand-Launch-Logo-Color-gif, 
+  <img src="https://github.com/Meowzart13/final/blob/main/TWULogo.jpg
+  src= https://github.com/Meowzart13/final/blob/main/TWULogo.jpg  2x, 
+       https://github.com/Meowzart13/final/blob/main/TWULogo.jpg  3x, 
+       https://github.com/Meowzart13/final/blob/main/TWULogo.jpg  4x,
         alt="T W U Logo"
     width="600" height="600">
   </div>
